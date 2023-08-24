@@ -1,0 +1,40 @@
+Question: What’s the company's annual award ceremony called?
+Correct Answer: The Dundies.
+AI Answer:  The annual employee awards night is called the Dundies.
+------------------------------
+Question: Showrunners didn’t inform the NBC executives that Steve Carell would return for the series finale. So, who read Michael’s (Steve’s) lines during the table read?
+Correct Answer: Creed Bratton.
+AI Answer:  During the table read, John Krasinski read Michael's lines.
+------------------------------
+Question: Who said the following quote:“It’s like I used to tell my wife: I do not apologize unless I think I’m wrong. And if you don’t like it, you can leave. And I say the same thing to my current wife and I’ll say it to my next one, too.”?
+Correct Answer: Stanley Hudson.
+AI Answer:  Michael said this quote.
+------------------------------
+Question: A prank goes wrong, and as a result, Dwight Schrute ends up trapped in an elevator with someone. What’s the name of the person he’s stuck with there?
+Correct Answer: Pam.
+AI Answer:  The person Dwight is stuck in the elevator with is Jim Halpert.
+------------------------------
+Question: Who said the following quote: We didn’t play many video games in Scranton. Instead, we’d do stuff like… uh, Pam and I would sometimes hum the same high-pitched note and try to get Dwight to make an appointment with an ear doctor. And, uh, Pam called it… pretendinitis.”?
+Correct Answer: Jim Halpert.
+AI Answer:  Jim Halpert said this quote.
+------------------------------
+Question: Dwight Schrute's rule seventeen is to never turn your back on bears, men you have wronged, or the dominant turkey during what crucial time?
+Correct Answer: Mating season.
+AI Answer:  Dwight Schrute's rule seventeen is to never turn your back on bears, men you have wronged, or the dominant turkey during mating season.
+------------------------------
+Question: Was the kiss between Oscar and Michael part of the script or was it improvised by Steve Carell?
+Correct Answer: The kiss was improvised by Steve Carell.
+AI Answer:  The kiss between Oscar and Michael was part of the script.
+------------------------------
+Question: Who said the following quote: “Do you know who the real heroes are? The guys who wake up every morning and go into their normal jobs and get a distress call from the Commissioner and take off their glasses and change into capes and fly around fighting crime. Those are the real heroes.”?
+Correct Answer: Dwight Schrute.
+AI Answer:  Michael said this quote.
+------------------------------
+Question: Who is Michael's favorite actress?
+Correct Answer: Meryl Streep.
+AI Answer:  Michael's favorite actress is Meryl Streep.
+------------------------------
+Question: Who gave Michael the World’s Best Boss mug?
+Correct Answer: He bought it for himself.
+AI Answer:  Dwight gave Michael the World’s Best Boss mug.
+------------------------------
